@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "source": "Pune",
+        "destination": "Mumbai",
+        "mode": "Flight",
+        "time": "1 hr",
+        "distance": "119 km",
+        "fare": 4500,
+        "data_source": "Static data",
+        "booked_at": "2026-05-29 09:23:01"
+    },
+    {
+        "id": 2,
+        "source": "Pune",
+        "destination": "Sambhajinagar",
+        "mode": "Cab",
+        "time": "3 hrs 19 mins",
+        "distance": "237 km",
+        "fare": 3312,
+        "data_source": "Geoapify Routing API",
+        "booked_at": "2026-05-29 09:26:00"
+    },
+    {
+        "id": 3,
+        "source": "Banglore",
+        "destination": "Sambhajinagar",
+        "mode": "Flight",
+        "time": "2 hrs 30 mins",
+        "distance": "559 km",
+        "fare": 2796,
+        "data_source": "Estimated from Geoapify route",
+        "booked_at": "2026-05-29 09:32:28"
+    },
+    {
+        "id": 4,
+        "source": "Sambhajinagar",
+        "destination": "Pune",
+        "mode": "Cab",
+        "time": "3 hrs 21 mins",
+        "distance": "237 km",
+        "fare": 3316,
+        "data_source": "Geoapify Routing API",
+        "booked_at": "2026-05-30 13:02:43"
+    },
+    {
+        "id": 5,
+        "source": "Pune",
+        "destination": "Nashik",
+        "mode": "Flight",
+        "time": "2 hrs 30 mins",
+        "distance": "214 km",
+        "fare": 2500,
+        "data_source": "Estimated from Geoapify route",
+        "booked_at": "2026-05-30 13:05:43"
+    },
+    {
+        "id": 6,
+        "source": "Pune",
+        "destination": "Mumbai",
+        "mode": "Train",
+        "time": "2 hrs 3 mins",
+        "distance": "144 km",
+        "fare": 287,
+        "data_source": "Estimated from Geoapify route",
+        "booked_at": "2026-10-23 17:33:22"
+    },
+    {
+        "id": 7,
+        "source": "Pune",
+        "destination": "Mumbai",
+        "mode": "Train",
+        "time": "2 hrs 3 mins",
+        "distance": "144 km",
+        "fare": 287,
+        "data_source": "Estimated from Geoapify route",
+        "booked_at": "2026-10-23 19:17:03"
+    }
+]
